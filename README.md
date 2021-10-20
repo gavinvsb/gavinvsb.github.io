@@ -5,7 +5,7 @@ gavinvsb.github.io
 
 This repository contains the source code for a personal website. MIT Licensed.
 
-View it here: [gavinvsb.github.io/website](https://gavinvsb.github.io/website/)
+View it here: [gavinvsb.github.io/](https://gavinvsb.github.io/)
 
 ## Forking Note
 
